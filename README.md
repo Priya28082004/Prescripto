@@ -10,7 +10,7 @@ A comprehensive healthcare management and doctor appointment booking platform bu
 | :--- | :--- | :--- |
 | **Frontend (Patient Portal)** | [https://prescripto-delta-pied.vercel.app](https://prescripto-delta-pied.vercel.app) | **Vercel** |
 | **Admin & Doctor Portal** | [https://prescripto-e96z.vercel.app](https://prescripto-e96z.vercel.app) | **Vercel** |
-| **Backend API** | Deployed on Render | **Render** |
+| **Backend API** | [https://prescripto-1-l1b7.onrender.com](https://prescripto-1-l1b7.onrender.com) | **Render** |
 
 ---
 
